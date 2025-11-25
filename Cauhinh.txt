@@ -1,2 +1,3 @@
 Chieu dai: 10
 Chieu rong: 5
+chieu cao : 3
