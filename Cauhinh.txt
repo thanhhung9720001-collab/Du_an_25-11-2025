@@ -2,3 +2,4 @@ Chieu dai: 12
 Chieu rong: 500
 chieu cao: 3
 chieu xeo: 1.5
+chieu cao: 20000
