@@ -1,2 +1,2 @@
-Chieu dai: 10
-Chieu rong: 5
+Chieu dai: 12
+Chieu rong: 500
